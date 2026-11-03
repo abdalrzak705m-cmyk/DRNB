@@ -1,0 +1,14 @@
+package.json
+{
+  "name": "secret-chat-backend",
+  "version": "1.0.0",
+  "description": "Secure and dual-mode chat backend with groups",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
